@@ -11,7 +11,7 @@
 // @include         https://www.sciencedirect.com/*
 //
 // @version         0.1
-// @updateURL		    https://raw.github.com/sepehr/userscript-SCRIPT/master/SCRIPT.user.js
+// @updateURL		    https://raw.githubusercontent.com/CSGA-KPX/userscripts/master/fuck-sciencedirect-AI-topic.js
 //
 // @run-at			    document-idle
 // @unwrap
