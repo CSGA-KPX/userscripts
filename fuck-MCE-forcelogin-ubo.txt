@@ -1,3 +1,7 @@
 # Rule for uBLock Origin
 
-www.medchemexpress.cn https://www.medchemexpress.cn/new/js/app/user/ script block
+||static.medchemexpress.cn/new/js/pro_login-*
+||static.medchemexpress.cn/new/js/app/user/pro-login*
+||static.medchemexpress.cn/new/js/app/user/login-cn-verify-*
+||www.medchemexpress.cn/cn-user/verify-login.html
+||static.medchemexpress.cn/new/css/pro_login*
